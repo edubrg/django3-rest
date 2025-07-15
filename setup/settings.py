@@ -40,6 +40,9 @@ INSTALLED_APPS = [
     
     # DJANGO REST FRAMEWORK
     'rest_framework',
+    
+    # Apps
+    'escola',
 ]
 
 MIDDLEWARE = [
